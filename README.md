@@ -1,5 +1,8 @@
 # ABG_extension
 
-After installation in Automatic1111's WebUI, select 'ABG Remover'.
+Apple Mac M1 version of extension ABG_extension
 
-Based on https://huggingface.co/spaces/skytnt/anime-remove-background
+### Automatic installation
+In the WebUI, in the `Extensions` tab, in the `Install from URL` subtab, enter this repository 
+`https://github.com/Metarock13/ABG_extension_m1`
+ and click install and restart.   

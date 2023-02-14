@@ -5,8 +5,8 @@ if not launch.is_installed("onnx"):
     print("Installing onnx...")
 
 if not launch.is_installed("onnxruntime-gpu"):
-    launch.run_pip("install onnxruntime-gpu")
-    print("Installing onnxruntime-gpu...")
+    launch.run_pip("install onnxruntime-silicon")
+    print("Installing onnxruntime-silicon...")
 
 if not launch.is_installed("opencv-python"):
     launch.run_pip("install opencv-python")
