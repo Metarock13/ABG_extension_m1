@@ -1,4 +1,4 @@
-# ABG_extension
+# ABG_extension_m1
 
 Apple Mac M1 version of extension ABG_extension
 
